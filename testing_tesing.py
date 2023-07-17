@@ -6,4 +6,5 @@ y = 2
 print('Here come the HARK-STEPPER')
 x = 10
 
-
+# adding note
+y = 17
