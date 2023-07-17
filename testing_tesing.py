@@ -8,7 +8,7 @@ x = 10
 
 cohort6 = ['nik', 'stephen', 'lou', 'rob', 'mark', 'etc']
 
-while y < 10:
+while y < 20:
     y += 1
     print('GO')
 
