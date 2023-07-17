@@ -5,5 +5,3 @@ y = 2
 
 print('Here come the HARK-STEPPER')
 x = 10
-
-
