@@ -1,2 +1,2 @@
 # edit by Nik
-print('Here come the HARK-STEPPER')
+print('Here comes the HARK-STEPPER')
