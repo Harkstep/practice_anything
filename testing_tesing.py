@@ -1,2 +1,3 @@
-# edit by Nik
-print('Here comes the HARK-STEPPER')
+print('Here come the HARK-STEPPER')
+x = 10
+
