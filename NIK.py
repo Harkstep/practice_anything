@@ -1,8 +1,0 @@
-# from Niks branch
-a = 1
-b = 2
-c = a + b
-print(c)
-
-
-# where does this go
